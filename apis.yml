@@ -1,9 +1,27 @@
 aid: scenario-x-global-holding-pte-ltd
 name: SCENARIO-X GLOBAL HOLDING PTE. LTD.
-description: SCENARIO-X GLOBAL HOLDING PTE. LTD. is a company surfaced as a portfolio company of 500-global
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: >-
+  SCENARIO-X GLOBAL HOLDING PTE. LTD. (Scenario X) is a financial-technology company building an
+  AI- and quantum-computing-powered platform for financial risk analysis, stress testing, and
+  regulatory reporting. The integrated platform is organized into four modules — Scenario (adverse
+  market-condition design), PPNR (Pre-Provision Net Revenue projection), Risk (market, counterparty,
+  credit, and operational risk), and Console (financial-data aggregation) — plus a quantum-computing
+  offering for predictive financial modeling. It serves banks, insurers, family offices, independent
+  wealth managers, and commodity traders. Surfaced as a portfolio company of 500 Global and tracked
+  in the API Evangelist network; no public API or developer surface has been found to date.
 url: https://raw.githubusercontent.com/api-evangelist/scenario-x-global-holding-pte-ltd/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://scenario-x.ai/wp-content/uploads/2024/05/Logo-Stylise.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,9 +30,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Financial Services
+- Risk Management
+- Stress Testing
+- Regtech
+- Quantum Computing
+- Fintech
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,5 +46,18 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/scenario-x-global-holding-pte-ltd-domain-security.yml
+- type: LLMsTxt
+  url: llms/scenario-x-global-holding-pte-ltd-llms.txt
 - type: Website
   url: https://scenario-x.ai
+- type: Blog
+  url: https://scenario-x.ai/articles/
+- type: PrivacyPolicy
+  url: https://scenario-x.ai/privacy-policy/
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1

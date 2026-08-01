@@ -1,0 +1,30 @@
+# Scenario X
+
+> Scenario X (SCENARIO-X GLOBAL HOLDING PTE. LTD.) is a financial-technology company building an AI- and quantum-computing-powered platform for financial risk analysis, stress testing, and regulatory reporting. Its integrated platform serves banks, insurers, family offices, independent wealth managers, and commodity traders. As of this writing the company publishes no public API, developer portal, or machine-readable API specification; this profile tracks the company as an API Evangelist network lead.
+
+## Company
+- [Home](https://scenario-x.ai/): Company homepage.
+- [Platform](https://scenario-x.ai/platform/): Overview of the integrated risk platform.
+- [Company](https://scenario-x.ai/company/): About Scenario X and its team.
+- [Careers](https://scenario-x.ai/careers/): Open roles.
+
+## Products
+- [Scenario Module](https://scenario-x.ai/scenario/): Designs and analyzes adverse market conditions for risk preparation.
+- [PPNR Module](https://scenario-x.ai/ppnr/): Pre-Provision Net Revenue projections and regulatory compliance.
+- [Risk Module](https://scenario-x.ai/risk/): Market, counterparty, credit, and operational risk assessment.
+- [Console Module](https://scenario-x.ai/console/): Aggregates financial data for streamlined analysis.
+- [Quantum](https://scenario-x.ai/quantum/): Quantum-computing solutions for financial modeling.
+
+## Resources
+- [Articles](https://scenario-x.ai/articles/): Research and market-risk insights.
+- [White Paper](https://scenario-x.ai/white-paper-landing-page/): Platform white paper (lead-capture).
+- [Privacy Policy](https://scenario-x.ai/privacy-policy/): Data-handling practices (Swiss LPD).
+
+## Contact
+- Email: info@scenario-x.ai
+- [LinkedIn](https://www.linkedin.com/company/91730593/)
+- [X / Twitter](https://x.com/Scenariox_ai)
+
+## Notes
+- No public API, OpenAPI/AsyncAPI specification, SDK, or developer documentation was found at the time of profiling.
+- Backed by 500 Global (portfolio company).
