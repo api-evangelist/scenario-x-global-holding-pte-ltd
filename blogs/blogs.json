@@ -3,19 +3,13 @@
   "feeds": [
     {
       "source": "https://scenario-x.ai/feed/",
-      "feed_url": "https://scenario-x.ai/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
+      "error": "HTTPError"
     },
     {
       "source": "https://scenario-x.ai",
-      "feed_url": "https://scenario-x.ai/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "discovered"
+      "error": "HTTPError"
     }
   ],
   "post_count": 3,
-  "fetched": "2026-08-15T12:11:08Z"
+  "fetched": "2026-08-22T20:20:02Z"
 }
