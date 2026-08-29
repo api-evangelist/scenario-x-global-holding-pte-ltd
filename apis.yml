@@ -10,6 +10,17 @@ description: >-
   wealth managers, and commodity traders. Surfaced as a portfolio company of 500 Global and tracked
   in the API Evangelist network; no public API or developer surface has been found to date.
 url: https://raw.githubusercontent.com/api-evangelist/scenario-x-global-holding-pte-ltd/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
