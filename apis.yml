@@ -1,5 +1,5 @@
 aid: scenario-x-global-holding-pte-ltd
-name: SCENARIO-X GLOBAL HOLDING PTE. LTD.
+name: SCENARIO-X GLOBAL HOLDING
 description: >-
   SCENARIO-X GLOBAL HOLDING PTE. LTD. (Scenario X) is a financial-technology company building an
   AI- and quantum-computing-powered platform for financial risk analysis, stress testing, and
@@ -47,7 +47,7 @@ created: '2026-07-17'
 modified: '2026-07-21'
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Risk Management
 - Stress Testing
 - RegTech
@@ -61,6 +61,7 @@ tags_raw:
 - Regtech
 - Quantum Computing
 - Fintech
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -83,3 +84,4 @@ x-enrichment:
   status: minimal
   artifacts_added: 2
   pass: local-v1
+x-legal-name: SCENARIO-X GLOBAL HOLDING PTE. LTD.
